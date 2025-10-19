@@ -1,2 +1,2 @@
 # go_exercise
-go语言圣经课后题题解
+go program 书中课后题题解
